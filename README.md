@@ -7,4 +7,4 @@ Scripts that solve the problem sets of my dynamic macro course at university
 - HP-filtering
 - OLG models
 - Dynasties
-- to be continued...
+- Mini-Thesis: a-lifecycle-analysis
